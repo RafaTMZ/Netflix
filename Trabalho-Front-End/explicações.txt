@@ -1,0 +1,8 @@
+Matheus Gehrke da Silva:
+Fiquei responsavel por fazer a pagina de login da Netflix, e a interação que existe naquela pagina,quando clicar no botão entrar,ir para a home da netflix a
+
+Rafael Tomazini Marani:
+Eu fiquei resposável pela página de home e fiz a maioria da estilização da página, fiz também a interação de criar uma div e apagar depois com o scroll do mouse (criar uma div quando descer o scroll e apagar quando subir)
+
+Vinicius Amancio Martins Pereira:
+Ajudei o Tomazini  a fazer a pagina home ja que ela é maior e mais complexa alem disso fiz a interação de hover no cartaz dos filmes
